@@ -1,6 +1,6 @@
 {
-  "name": "hzywt/php-utils",
-  "description": "php common methons for myself",
+  "name": "hzy9738/php-utils",
+  "description": "php common methods for myself",
   "type": "library",
   "require": {
     "php": ">=5.6.0"
