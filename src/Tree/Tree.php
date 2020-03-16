@@ -1,6 +1,6 @@
 <?php
 
-namespace Utils;
+namespace Utils\Tree;
 /**
  * 通用的树型类
  * @author XiaoYao <476552238li@gmail.com>
